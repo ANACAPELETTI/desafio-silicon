@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466745224230",
+    "project_id": "silicon-apcra",
+    "storage_bucket": "silicon-apcra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466745224230:android:8b0a35b37046443a4b0ae7",
+        "android_client_info": {
+          "package_name": "com.example.silicon_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466745224230-212j9peu06thuoop4i35em3kiuknql44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyfRlSNnZSaKrbmWol4U1tEn9YCOVStc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466745224230-212j9peu06thuoop4i35em3kiuknql44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

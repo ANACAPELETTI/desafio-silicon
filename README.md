@@ -1,0 +1,3 @@
+# silicon_project
+
+Esse é meu primeiro projeto utilizando o Flutter, o mesmo me foi passado como desafio pela Silicon Village. No desafio é necessário criar um app simples em flutter, com pelo menos duas telas. Nesse app, um dos requisitos propostos é a integração com o firebase, então, a partir de uma tela do app será informado algum valor. Podendo ser String, números, objetos, etc. Esse dado deverá ser enviado para o firebase, ele será exibido na tela seguinte, buscando essa informação do firebase. Além disso, foi proposto também um desafio extra, propomos um desafio extra. Que seria: ao informar um número inteiro, deve-se exibir na tela seu valor em extenso. Por exemplo: informo 20 e na tela será exibido 'vinte'. A personalização das telas fica a critério.
